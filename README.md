@@ -26,11 +26,14 @@
 
 ### 🚀 About Me
 
-yaml
+```yaml
 🎓 BSc in Bioinformatics – Benha University, Egypt
 🧬 Genomics, Transcriptomics, and Drug Discovery
 💻 R | Python | Bash 
 📍 Cairo, Egypt
+
+
+### 🧪 Featured Projects
 
 | Project                   | Description                                                      | Tools                        |
 | ------------------------- | ---------------------------------------------------------------- | ----------------------------  |
@@ -40,11 +43,39 @@ yaml
 | 📊 **Cholera Dashboard**  | Interactive Shiny app to monitor outbreak stats across countries | `R`, `Shiny`, `plotly`       |
 
 
-<p align="center"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"
+### 🧰 Tech Stack
 
+<p align="center"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" /> <img src="https://img.shields.io/badge/Nextflow-16BA7F?style=for-the-badge&logo=nextflow&logoColor=white" /> <img src="https://img.shields.io/badge/AutoDock-002147?style=for-the-badge&logoColor=white" /> </p>
+### 🌐 Connect with Me
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-I-Ali&show_icons=true&theme=gruvbox" height="160"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-I-Ali&layout=compact&theme=gruvbox" height="160"/> </p>
+<p align="center">
+  <a href="mailto:abdallahhashem832@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/abdullah-i-ali"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Abdullah-I-Ali"><img src="https://img.shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-I-Ali&show_icons=true&theme=tokyonight" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-I-Ali&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+### 🧬 Fun Fact
+
+> "The genome is like a language, and I’m here to help decode its poetry."  
+> — Abdallah
+
+---
+
+<!-- Optional animated DNA GIF -->
+<p align="center">
+  <img src="https://github.com/Abdullah-I-Ali/Abdullah-I-Ali/assets/your-gif-id/dna-animated.gif" width="300" alt="dna gif"/>
+</p>
 
 
 
