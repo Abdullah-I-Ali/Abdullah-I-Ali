@@ -42,6 +42,7 @@ yaml
 
 <p align="center"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"
 
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-I-Ali&show_icons=true&theme=gruvbox" height="160"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-I-Ali&layout=compact&theme=gruvbox" height="160"/> </p>
 
 
