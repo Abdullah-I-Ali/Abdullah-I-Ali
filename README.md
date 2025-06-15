@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Abdullah 👋</h1>
 <p align="center">
-  🧬 Bioinformatics Student | R • Python • Bash</h3>
+  🧬 Bioinformatics Student | Data Analysis
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=4C9EFF&center=true&vCenter=true&width=600&height=40&lines=Passionate+about+genomics+%26+data+analysis;Working+on+AMR+%7C+RNA-seq+%7C+Docking+%26+Pipelines;Open+to+collaboration+on+bioinformatics+projects!" alt="Typing Animation" />
 </p>
