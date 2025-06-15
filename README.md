@@ -31,6 +31,7 @@
 🧬 Genomics, Transcriptomics, and Drug Discovery
 💻 R | Python | Bash 
 📍 Cairo, Egypt
+```
 
 
 ### 🧪 Featured Projects
