@@ -47,13 +47,7 @@
 ### 🧰 Tech Stack
 
 <p align="center"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" /> <img src="https://img.shields.io/badge/Nextflow-16BA7F?style=for-the-badge&logo=nextflow&logoColor=white" /> <img src="https://img.shields.io/badge/AutoDock-002147?style=for-the-badge&logoColor=white" /> </p>
-### 🌐 Connect with Me
 
-<p align="center">
-  <a href="mailto:abdallahhashem832@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/abdullah-i-ali"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Abdullah-I-Ali"><img src="https://img.shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
 
 ---
 
